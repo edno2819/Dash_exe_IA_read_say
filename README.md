@@ -6,3 +6,6 @@ Executavel de Dash com uma IA que indentifica e lê um texto de uma imagem
 2 - Instale as dependências
 3 - Crie usando uma pasta com o autopytoexe
 4 - Adicione dentro da pasta do executável a pasta Dash q está dentro das lib do venv
+
+![alt text](https://raw.githubusercontent.com/edno2819/Dash_exe_IA_read_say/main/print_dash_exe.PNG)
+
