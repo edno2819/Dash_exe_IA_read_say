@@ -54,8 +54,8 @@ app.layout = dbc.Container([
         html.Br(),
         html.Div(id='output-image-upload'),
         html.Hr(),
-        html.Pre('Centro Universitário de Jaguariúna (UniFAJ)', style={'textAlign': 'center', 'margin': '10px'}),
-        html.Pre('Alunos: Pedro Longo, Decio, Wallace', style={'textAlign': 'center', 'margin': '10px'}),
+        html.Pre('UFMA', style={'textAlign': 'center', 'margin': '10px'}),
+        html.Pre('Alunos: Edno', style={'textAlign': 'center', 'margin': '10px'}),
     ],
     )
 
