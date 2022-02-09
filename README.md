@@ -1,5 +1,5 @@
 # Dash_exe_IA_read_say
-<h2>Executavel Dash com uma IA que indentifica e lê um texto de uma imagem</h2>
+<h2>Executavel Dash com IA que indentifica textos de uma imagem e os lê</h2>
 
 *Para criar o executável:
 <ol> 
